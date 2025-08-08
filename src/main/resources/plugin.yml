@@ -1,0 +1,7 @@
+name: O6SHerosRPG
+version: '${project.version}'
+author: Se7enzito
+main: org.bernardo.o6sherosrpg.O6SHerosRPG
+api-version: '1.16'
+commands:
+  classes:
